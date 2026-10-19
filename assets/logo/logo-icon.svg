@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="180 -10 640 640" width="640" height="640" role="img" aria-label="Bruno Tiopisto icon">
+  <title>Bruno Tiopisto icon</title>
+  <defs><linearGradient id="carGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#B2E05A"/><stop offset="1" stop-color="#6AAE34"/></linearGradient></defs>
+  <rect x="180" y="-10" width="640" height="640" rx="76" fill="#232628"/>
+  <g>
+    <path d="M224,384 L280,384 L280,410 Q280,416 274,416 L230,416 Q224,416 224,410 Z" fill="#3C4145"/>
+    <path d="M776,384 L720,384 L720,410 Q720,416 726,416 L770,416 Q776,416 776,410 Z" fill="#3C4145"/>
+    <path d="M446,190 L554,190 Q568,190 577,199 L642,250 C692,254 736,262 762,276 C782,288 792,310 792,335 L790,374 L760,384 L240,384 L210,374 L208,335 C208,310 218,288 238,276 C264,262 308,254 358,250 L423,199 Q432,190 446,190 Z M452,203 L548,203 L607,247 L393,247 Z" fill="url(#carGrad)" fill-rule="evenodd"/>
+    <path d="M360,250 L338,236 Q314,230 306,243 Q312,254 350,256 Z" fill="url(#carGrad)"/>
+    <path d="M640,250 L662,236 Q686,230 694,243 Q688,254 650,256 Z" fill="url(#carGrad)"/>
+    <path d="M290,390 L710,390 L702,397 L298,397 Z" fill="url(#carGrad)"/>
+    <path d="M232,296 L382,320 L374,334 L296,330 Q256,324 236,310 Z" fill="#232628"/>
+    <path d="M226,348 L326,348 L350,376 L240,376 Q228,370 226,360 Z" fill="#232628"/>
+    <path d="M432,262 L446,262 L478,304 L470,306 Z" fill="#232628"/>
+    <path d="M768,296 L618,320 L626,334 L704,330 Q744,324 764,310 Z" fill="#232628"/>
+    <path d="M774,348 L674,348 L650,376 L760,376 Q772,370 774,360 Z" fill="#232628"/>
+    <path d="M568,262 L554,262 L522,304 L530,306 Z" fill="#232628"/>
+    <path d="M392,350 L608,350 L592,376 L408,376 Z" fill="#232628"/>
+    <path d="M252,305 L368,324" fill="none" stroke="#D9DEE2" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M748,305 L632,324" fill="none" stroke="#D9DEE2" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M412,363 L588,363" fill="none" stroke="#D9DEE2" stroke-width="2.5" opacity="0.6"/>
+  </g>
+</svg>
