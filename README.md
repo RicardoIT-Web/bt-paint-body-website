@@ -36,6 +36,12 @@ The photo upload is the only part that needs something outside a static site, be
 
 Before going live, set the form `action` in `index.html` to a real endpoint (e.g. a Formspree form ID) so photo uploads reach the owner.
 
+## Pending actions
+
+- [ ] **Connect the quote form to Formspree** (or similar): create a form, then replace `YOUR_FORM_ID` in the form `action` in `index.html`. Until then the photo upload only works as a demo and nothing reaches the owner.
+- [ ] Confirm opening hours and add them to the Contactos section.
+- [ ] Services section was removed for now; bring it back if wanted.
+
 ## Running it locally
 
 No install is needed. Clone the repo and either open `index.html` in a browser, or serve the folder so links and uploads behave like they will online:
