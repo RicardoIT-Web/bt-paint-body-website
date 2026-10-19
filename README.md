@@ -20,6 +20,9 @@ The photo upload is the only part that needs something outside a static site, be
 ```
 .
 ├── README.md
+├── index.html               # home page (Portuguese)
+├── css/style.css
+├── js/main.js               # mobile menu, photo previews, form submit
 └── assets/
     └── logo/
         ├── logo.svg                 # main badge, transparent background (use this on the site)
@@ -31,7 +34,7 @@ The photo upload is the only part that needs something outside a static site, be
         └── source/build_logo.py     # script that regenerates all logo files
 ```
 
-More folders (`index.html`, `css/`, `js/`, `images/`) will be added as the site is built.
+Before going live, set the form `action` in `index.html` to a real endpoint (e.g. a Formspree form ID) so photo uploads reach the owner.
 
 ## Running it locally
 
