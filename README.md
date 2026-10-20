@@ -39,7 +39,6 @@ Before going live, set the form `action` in `index.html` to a real endpoint (e.g
 ## Pending actions
 
 - [ ] **Connect the quote form to Formspree** (or similar): create a form, then replace `YOUR_FORM_ID` in the form `action` in `index.html`. Until then the photo upload only works as a demo and nothing reaches the owner.
-- [ ] Confirm opening hours and add them to the Contactos section.
 - [ ] Services section was removed for now; bring it back if wanted.
 
 ## Running it locally

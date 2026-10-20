@@ -89,7 +89,8 @@ h3 { font-size: 1.05rem; }
 
 .contact-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; align-items: stretch; }
 .contact-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
-.contact-list strong { display: inline-block; min-width: 90px; color: var(--dark); }
+.contact-list strong { display: inline-block; min-width: 90px; color: var(--dark); vertical-align: top; }
+.contact-list span { display: inline-block; }
 .map-placeholder { min-height: 220px; border-radius: var(--radius); border: 1px dashed #b4bdc2; background: #fff; display: grid; place-items: center; text-align: center; color: var(--muted); text-decoration: none; }
 .map-placeholder:hover { border-color: var(--green-lo); color: var(--text); }
 
